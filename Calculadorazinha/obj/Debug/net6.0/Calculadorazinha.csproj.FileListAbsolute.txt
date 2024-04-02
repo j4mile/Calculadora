@@ -1,0 +1,14 @@
+C:\Users\jamil\source\repos\Calculadorazinha\bin\Debug\net6.0\Calculadorazinha.exe
+C:\Users\jamil\source\repos\Calculadorazinha\bin\Debug\net6.0\Calculadorazinha.deps.json
+C:\Users\jamil\source\repos\Calculadorazinha\bin\Debug\net6.0\Calculadorazinha.runtimeconfig.json
+C:\Users\jamil\source\repos\Calculadorazinha\bin\Debug\net6.0\Calculadorazinha.dll
+C:\Users\jamil\source\repos\Calculadorazinha\bin\Debug\net6.0\Calculadorazinha.pdb
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.AssemblyInfo.cs
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.csproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.dll
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\refint\Calculadorazinha.dll
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.pdb
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Calculadorazinha\obj\Debug\net6.0\ref\Calculadorazinha.dll
